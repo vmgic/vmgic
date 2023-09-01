@@ -13,11 +13,15 @@
 - UI/UX 设计
 - 响应式网页设计
 
+- Windows 平台开发:
+- C#
+- 平台软件开发
+
 ## 项目
 这是我最近参与的项目：
 
 ### Meitrack 官方网站
-- 项目链接：[www.meitrack.com](https://www.meitrack.com)
+- 项目链接：http://ms03.meiligao.com/
 - 描述：Meitrack是一家领先的GPS跟踪设备制造商，他们为全球客户提供高质量的位置追踪解决方案。在这个项目中，我是前端开发团队的一员，负责网站的前端设计和开发。我使用了HTML、CSS和JavaScript来创建一个响应式的网站，以确保用户在各种设备上都有出色的体验。
 
 ## 联系方式
