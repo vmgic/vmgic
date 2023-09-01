@@ -3,27 +3,25 @@
 
 
 
-## 关于我
-我是一名Web开发人员，专注于前端开发和用户体验设计。我的热情是创建令人印象深刻的Web应用程序，将用户友好性与创新的设计相结合。
+## About Me
+I am a web developer, specializing in front-end development and user experience design. My passion is creating impressive web applications that combine user-friendliness with innovative design.
 
-## 技能
-我在以下领域有经验：
+## Skills
+I have experience in the following areas:
 
-- 前端开发: HTML, CSS, JavaScript, React
-- UI/UX 设计
-- 响应式网页设计
+- Front-end development: HTML, CSS, JavaScript, React
+- UI/UX design
+- Responsive web design
+- Windows platform development: C#
+- Platform software development
 
-- Windows 平台开发:
-- C#
-- 平台软件开发
+## Projects
+Here are some of the projects I have recently been involved in:
 
-## 项目
-这是我最近参与的项目：
+### Meitrack GPS Tracking Platform
+- Project Link：http://ms03.meiligao.com/
+- Description: Meitrack is a leading GPS tracking device manufacturer, providing high-quality location tracking solutions to global customers. In this project, I was a member of the front-end development team responsible for the website's front-end design and development. I used HTML, CSS, and JavaScript to create a responsive website to ensure an excellent user experience on various devices.
 
-### Meitrack GPS 追踪平台 
-- 项目链接：http://ms03.meiligao.com/
-- 描述：Meitrack是一家领先的GPS跟踪设备制造商，他们为全球客户提供高质量的位置追踪解决方案。在这个项目中，我是前端开发团队的一员，负责网站的前端设计和开发。我使用了HTML、CSS和JavaScript来创建一个响应式的网站，以确保用户在各种设备上都有出色的体验。
-
-## 联系方式
-- 邮箱：vmlocatin360@gmail.com
+## Contact
+- Email：vmlocatin360@gmail.com
 
