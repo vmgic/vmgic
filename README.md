@@ -19,7 +19,6 @@ I have experience in the following areas:
 Here are some of the projects I have recently been involved in:
 
 
-## Contact
-- Email：rennyobs@gmail.com
+
 
 
